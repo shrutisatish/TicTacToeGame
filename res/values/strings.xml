@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="playerTurn">Player Turn</string>
+    <string name="btn_score">Score</string>
+    <string name="btn_credits">Credits</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_quit">Quit</string>
+    <string name="player_turn">display player turn</string>
+    <string name="title_activity_credit">CreditActivity</string>
+    <string name="button_back">Back</string>
+    <string name="str_1">Shruti Satish</string>
+    <string name="str_2">Kruti Satish</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="title_activity_score_board">ScoreBoardActivity</string>
+    <string name="score_board">Score Board</string>
+    <string name="total_games">Number of games played</string>
+    <string name="games_played">Number of Games Played</string>
+    <string name="player_1">Player 1:</string>
+    <string name="player_2">Player 2:</string>
+    <string name="player_winning_statistics">Player Winning Statistics :</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_back1">Back to the Game</string>
+
+</resources>
